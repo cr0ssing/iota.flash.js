@@ -1,6 +1,6 @@
 {
     "name": "iota.flash.js",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "IOTA Flash Payment Channels",
     "main": "./lib/flash.js",
     "scripts": {
@@ -12,7 +12,6 @@
         "url": "git+https://github.com/l3wi/flashLib.git"
     },
     "keywords": ["payment", "channel", "tangle", "iota"],
-    "files": ["/lib/multisig.js", "/lib/transfer.js"],
     "authors": [
         "Paul Handy <paul@iota.org>",
         "Chris Dukakis <chris.dukakis@iota.org>",
